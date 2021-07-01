@@ -2,7 +2,7 @@
 
 Comandos necessários:
 
-# 1° npm install
+#1° npm install
 Para instalar o node_modules com as libs necessárias para rodar o projeto 
 
 #2° docker compose up -d
